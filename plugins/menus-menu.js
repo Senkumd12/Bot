@@ -25,7 +25,7 @@ const defaultMenu = {
   header: '~~● *_%category_* ',
   body: '| %cmd %isdiamond %isPremium',
   footer: '~~~~~~~~●\n',
-  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول . لذا إن واجهتك أي مشكلة لا تخجل من سؤال صاحب البوت .رقمه سوف تجده في الأسفل *\n+201008599375 واجه  ',
+  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول . لذا إن واجهتك أي مشكلة لا تخجل من سؤال صاحب البوت .رقمه سوف تجده في الأسفل *\n+212625457341 واجه  ',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
@@ -128,10 +128,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'KILLUA BOT ♥',
-body: "بوت من تحرير الاسطوره يوسف چو 💖",
+title: 'سينكو  ♥',
+body: "مطور من طرف كيلوا 💖",
 thumbnailUrl: 'https://telegra.ph/file/e1f63555f0063389c9845.jpg',
-sourceUrl: 'https://youtube.com/@JoAnimi1?si=3y1aUCmnTVzCVgIM',
+sourceUrl: 'https://youtube.com',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
